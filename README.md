@@ -17,4 +17,4 @@ Pebble watch app/server example using web sockets.
 Once the app is installed and talking to the server you will see a "Hello" appear on the watch.  Now anything you type
  in the shell where you are running the server app will be sent to the watch and displayed on the screen.
 
- 
+ <img src="/img/screenshot.png" />
