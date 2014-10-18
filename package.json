@@ -1,0 +1,27 @@
+{
+  "name": "pebble-socket-example",
+  "version": "0.0.1",
+  "description": "Pebble watch app/server example using web sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geek/pebble-socket-example.git"
+  },
+  "keywords": [
+    "pebble"
+  ],
+  "author": "Wyatt Preul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geek/pebble-socket-example/issues"
+  },
+  "homepage": "https://github.com/geek/pebble-socket-example",
+  "dependencies": {
+    "hapi": "^7.0.0",
+    "ws": "^0.4.32"
+  }
+}
